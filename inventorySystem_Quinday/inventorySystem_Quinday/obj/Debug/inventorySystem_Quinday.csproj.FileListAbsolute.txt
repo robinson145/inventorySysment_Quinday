@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\inventorySystem_Quinday\inventorySystem_Quinday\bin\Debug\inventorySystem_Quinday.exe.config
+C:\Users\Administrator\source\repos\inventorySystem_Quinday\inventorySystem_Quinday\bin\Debug\inventorySystem_Quinday.exe
+C:\Users\Administrator\source\repos\inventorySystem_Quinday\inventorySystem_Quinday\bin\Debug\inventorySystem_Quinday.pdb
+C:\Users\Administrator\source\repos\inventorySystem_Quinday\inventorySystem_Quinday\obj\Debug\inventorySystem_Quinday.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\inventorySystem_Quinday\inventorySystem_Quinday\obj\Debug\inventorySystem_Quinday.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\inventorySystem_Quinday\inventorySystem_Quinday\obj\Debug\inventorySystem_Quinday.exe
+C:\Users\Administrator\source\repos\inventorySystem_Quinday\inventorySystem_Quinday\obj\Debug\inventorySystem_Quinday.pdb
